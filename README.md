@@ -1,0 +1,5 @@
+- 👋 Hi there! I’m @max-maggio!
+- I'm a creative enthusiast, passionate about designing, building, and iterating user-centered products. 
+- I like working with people that are passionate about what they do, and happy to share their experiences and critiques. When not designing, I spend my time with music, painting, and cooking.
+- 👀 I’m interested in improving my coding skills and sharing a collaborative environment.
+- 🌱 I’m currently impoving my JavaScript skills and planning to continue with ReactJS and more...
